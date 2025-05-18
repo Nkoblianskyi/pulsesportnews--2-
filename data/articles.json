@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "slug": "barcelona-victoria-clasico",
+    "title": "El Barcelona se impone en un Clásico vibrante y recupera el liderato",
+    "excerpt": "Un doblete de Lewandowski y un gol de Lamine Yamal dieron la victoria al equipo azulgrana en un partido lleno de emoción y alternativas.",
+    "content": "El FC Barcelona se impuso por 3-2 al Real Madrid en un Clásico vibrante disputado en el Santiago Bernabéu, recuperando así el liderato de La Liga. El partido, que no defraudó las expectativas, estuvo marcado por las alternativas en el marcador y el gran nivel mostrado por ambos equipos.",
+    "category": "Fútbol",
+    "author": "Carlos Martínez",
+    "date": "15 mayo, 2025",
+    "image": "/placeholder.svg?height=600&width=800&query=futbol+barcelona+madrid+clasico"
+  },
+  {
+    "id": "2",
+    "slug": "nadal-anuncia-retirada",
+    "title": "Nadal anuncia su retirada tras Roland Garros: 'Es el momento de decir adiós'",
+    "excerpt": "El tenista español, ganador de 22 Grand Slams, ha confirmado que el torneo parisino será el último de su carrera profesional.",
+    "content": "Rafael Nadal ha anunciado este jueves que se retirará del tenis profesional tras el próximo Roland Garros, torneo que ha ganado en 14 ocasiones y que se disputará entre mayo y junio. El tenista español, de 38 años, ha explicado en una rueda de prensa que 'es el momento de decir adiós' tras una carrera plagada de éxitos y también de lesiones.",
+    "category": "Tenis",
+    "author": "Laura Sánchez",
+    "date": "12 mayo, 2025",
+    "image": "/placeholder.svg?height=600&width=800&query=tenis+nadal+roland+garros"
+  },
+  {
+    "id": "3",
+    "slug": "verstappen-victoria-barcelona",
+    "title": "Verstappen domina en Barcelona y amplía su ventaja en el Mundial",
+    "excerpt": "El piloto neerlandés logró su sexta victoria de la temporada en el Circuit de Barcelona-Catalunya, por delante de Norris y Hamilton.",
+    "content": "Max Verstappen (Red Bull) se impuso con autoridad en el Gran Premio de España de Fórmula 1, disputado en el Circuit de Barcelona-Catalunya, logrando así su sexta victoria de la temporada y ampliando su ventaja al frente del Mundial de pilotos.",
+    "category": "Fórmula 1",
+    "author": "Miguel Torres",
+    "date": "10 mayo, 2025",
+    "image": "/placeholder.svg?height=600&width=800&query=formula1+verstappen+redbull+barcelona"
+  },
+  {
+    "id": "4",
+    "slug": "espana-convocatoria-eurocopa",
+    "title": "De la Fuente anuncia la lista de España para la Eurocopa con varias sorpresas",
+    "excerpt": "El seleccionador español ha dado a conocer los 26 jugadores que disputarán el torneo continental, con la inclusión de varios jóvenes talentos.",
+    "content": "Luis de la Fuente, seleccionador español, ha anunciado este viernes la lista de 26 jugadores que representarán a España en la próxima Eurocopa. La convocatoria incluye varias sorpresas, como la presencia de jóvenes talentos que han destacado esta temporada en sus respectivos equipos.",
+    "category": "Fútbol",
+    "author": "Carlos Martínez",
+    "date": "8 mayo, 2025",
+    "image": "/placeholder.svg?height=600&width=800&query=seleccion+espana+futbol+eurocopa"
+  },
+  {
+    "id": "5",
+    "slug": "real-madrid-fichaje-estrella",
+    "title": "El Real Madrid cierra el fichaje de la estrella francesa por 120 millones",
+    "excerpt": "El club blanco ha llegado a un acuerdo con el PSG para el traspaso del delantero, que firmará por cinco temporadas.",
+    "content": "El Real Madrid ha cerrado el fichaje de la estrella francesa del PSG por 120 millones de euros, según han confirmado fuentes cercanas a la negociación. El delantero, que quedará libre el próximo 30 de junio, firmará un contrato por cinco temporadas con el club blanco.",
+    "category": "Fútbol",
+    "author": "Carlos Martínez",
+    "date": "5 mayo, 2025",
+    "image": "/placeholder.svg?height=600&width=800&query=futbol+real+madrid+fichaje+estrella"
+  },
+  {
+    "id": "6",
+    "slug": "barca-basket-campeon-euroliga",
+    "title": "El Barça conquista la Euroliga tras una final épica ante el Olympiacos",
+    "excerpt": "El equipo azulgrana logró su tercera corona continental tras imponerse por 82-80 en un partido que se decidió en los últimos segundos.",
+    "content": "El FC Barcelona se proclamó campeón de la Euroliga de baloncesto tras derrotar al Olympiacos por 82-80 en una final épica disputada en Berlín. El equipo azulgrana, dirigido por Roger Grimau, logró así su tercera corona continental tras un partido que se decidió en los últimos segundos.",
+    "category": "Baloncesto",
+    "author": "Laura Sánchez",
+    "date": "2 mayo, 2025",
+    "image": "/placeholder.svg?height=600&width=800&query=baloncesto+barcelona+euroliga+campeon"
+  }
+]

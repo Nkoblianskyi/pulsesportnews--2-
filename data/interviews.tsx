@@ -1,0 +1,54 @@
+export const interviews = [
+  {
+    id: "1",
+    slug: "entrevista-pedri-barcelona",
+    title: "Pedri: 'Quiero ganar la Champions con el Barça, es mi gran sueño'",
+    excerpt:
+      "El centrocampista canario repasa su trayectoria, habla de sus objetivos y analiza el presente y futuro del FC Barcelona en una entrevista exclusiva.",
+    person: "Pedri González",
+    role: "Centrocampista del FC Barcelona",
+    interviewer: "Carlos Martínez",
+    date: "14 mayo, 2025",
+    image: "/pedri-barcelona-interview.png",
+    bio: "Pedri González (Tegueste, 2002) es uno de los centrocampistas más talentosos de su generación. Formado en Las Palmas, llegó al FC Barcelona en 2020 y rápidamente se convirtió en una pieza clave del equipo. Internacional con España, ha sido reconocido con el premio Golden Boy y el Trofeo Kopa.",
+  },
+  {
+    id: "2",
+    slug: "entrevista-xavi-hernandez",
+    title: "Xavi Hernández: 'Estamos construyendo un proyecto ganador a largo plazo'",
+    excerpt:
+      "El entrenador del FC Barcelona analiza la temporada, habla de la evolución del equipo y desvela las claves de su método de trabajo.",
+    person: "Xavi Hernández",
+    role: "Entrenador del FC Barcelona",
+    interviewer: "Laura Sánchez",
+    date: "10 mayo, 2025",
+    image: "/xavi-hernandez-barcelona-coach.png",
+    bio: "Xavi Hernández (Terrassa, 1980) es uno de los centrocampistas más laureados de la historia del fútbol. Tras una exitosa carrera como jugador en el FC Barcelona y el Al-Sadd, inició su trayectoria como entrenador en el club catarí antes de regresar al Barça para dirigir al primer equipo en 2021.",
+  },
+  {
+    id: "3",
+    slug: "entrevista-carlos-alcaraz",
+    title: "Carlos Alcaraz: 'Mi objetivo es ser el número uno durante muchos años'",
+    excerpt:
+      "El tenista español habla de sus ambiciones, su preparación y cómo gestiona la presión de ser una de las grandes estrellas del circuito.",
+    person: "Carlos Alcaraz",
+    role: "Tenista profesional",
+    interviewer: "Miguel Torres",
+    date: "8 mayo, 2025",
+    image: "/carlos-alcaraz-interview.png",
+    bio: "Carlos Alcaraz (El Palmar, 2003) es uno de los tenistas más prometedores de la actualidad. A su corta edad, ya ha conquistado varios títulos de Grand Slam y ha alcanzado el número uno del ranking ATP, convirtiéndose en el jugador más joven de la historia en lograrlo.",
+  },
+  {
+    id: "4",
+    slug: "entrevista-luis-de-la-fuente",
+    title: "Luis de la Fuente: 'Tenemos una generación de futbolistas extraordinaria'",
+    excerpt:
+      "El seleccionador español analiza las opciones de España en la Eurocopa y habla del proceso de renovación que ha llevado a cabo desde su llegada al cargo.",
+    person: "Luis de la Fuente",
+    role: "Seleccionador de España",
+    interviewer: "Carlos Martínez",
+    date: "5 mayo, 2025",
+    image: "/placeholder.svg?height=600&width=800&query=luis+de_la_fuente+seleccionador+espana",
+    bio: "Luis de la Fuente (Haro, 1961) es el actual seleccionador de la selección española de fútbol. Tras una dilatada carrera como jugador y entrenador, asumió el cargo en 2022 tras el Mundial de Qatar, después de haber dirigido con éxito a las categorías inferiores de la selección.",
+  },
+]

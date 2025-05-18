@@ -1,0 +1,42 @@
+[
+  {
+    "match": "FC Barcelona vs. Real Madrid",
+    "date": "20 mayo, 2025",
+    "prediction": "Victoria del FC Barcelona (2-1)",
+    "odds": "2.10",
+    "confidence": "Alta",
+    "expert": "Carlos Martínez"
+  },
+  {
+    "match": "Atlético de Madrid vs. Sevilla FC",
+    "date": "21 mayo, 2025",
+    "prediction": "Empate (1-1)",
+    "odds": "3.25",
+    "confidence": "Media",
+    "expert": "Laura Sánchez"
+  },
+  {
+    "match": "Valencia CF vs. Athletic Club",
+    "date": "22 mayo, 2025",
+    "prediction": "Victoria del Athletic Club (0-2)",
+    "odds": "2.75",
+    "confidence": "Alta",
+    "expert": "Miguel Torres"
+  },
+  {
+    "match": "Real Sociedad vs. Villarreal CF",
+    "date": "23 mayo, 2025",
+    "prediction": "Ambos equipos marcan",
+    "odds": "1.85",
+    "confidence": "Alta",
+    "expert": "Carlos Martínez"
+  },
+  {
+    "match": "Real Betis vs. Espanyol",
+    "date": "24 mayo, 2025",
+    "prediction": "Más de 2.5 goles",
+    "odds": "1.95",
+    "confidence": "Media",
+    "expert": "Laura Sánchez"
+  }
+]

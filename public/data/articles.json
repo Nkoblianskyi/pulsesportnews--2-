@@ -1,0 +1,108 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "slug": "barcelona-victoria-clasico",
+      "title": "El Barcelona se impone en un Clásico vibrante y recupera el liderato",
+      "excerpt": "Un doblete de Lewandowski y un gol de Lamine Yamal dieron la victoria al equipo azulgrana en un partido lleno de emoción y alternativas.",
+      "content": "El FC Barcelona se impuso por 3-2 al Real Madrid en un Clásico vibrante disputado en el Santiago Bernabéu, recuperando así el liderato de La Liga. El partido, que no defraudó las expectativas, estuvo marcado por las alternativas en el marcador y el gran nivel mostrado por ambos equipos.\n\nEl conjunto azulgrana comenzó dominando el encuentro y se adelantó con un gol tempranero de Lewandowski tras una gran jugada colectiva. Sin embargo, el Real Madrid reaccionó y logró empatar antes del descanso gracias a un potente disparo de Bellingham desde fuera del área.\n\nEn la segunda mitad, el partido se convirtió en un intercambio de golpes. Lewandowski volvió a adelantar al Barça con un remate de cabeza, pero Vinícius igualó de nuevo el marcador desde el punto de penalti. Cuando parecía que el empate sería el resultado definitivo, Lamine Yamal apareció en el minuto 87 para marcar el gol de la victoria con un disparo ajustado al palo.",
+      "category": "Fútbol",
+      "author": "Carlos Martínez",
+      "date": "15 mayo, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=futbol+barcelona+madrid+clasico",
+      "readTime": "5 min",
+      "tags": ["Barcelona", "Real Madrid", "La Liga", "Clásico"]
+    },
+    {
+      "id": "2",
+      "slug": "nadal-anuncia-retirada",
+      "title": "Nadal anuncia su retirada tras Roland Garros: 'Es el momento de decir adiós'",
+      "excerpt": "El tenista español, ganador de 22 Grand Slams, ha confirmado que el torneo parisino será el último de su carrera profesional.",
+      "content": "Rafael Nadal ha anunciado este jueves que se retirará del tenis profesional tras el próximo Roland Garros, torneo que ha ganado en 14 ocasiones y que se disputará entre mayo y junio. El tenista español, de 38 años, ha explicado en una rueda de prensa que 'es el momento de decir adiós' tras una carrera plagada de éxitos y también de lesiones.\n\n'He tomado esta decisión porque mi cuerpo ya no me permite competir al nivel que me gustaría', ha explicado Nadal, visiblemente emocionado. 'Han sido muchos años de alegrías, pero también de sufrimiento físico, y creo que ha llegado el momento de poner punto final a esta etapa de mi vida'.\n\nEl balear, considerado uno de los mejores tenistas de la historia, se despedirá así en el torneo que más alegrías le ha dado, donde ha construido gran parte de su leyenda. 'No puedo imaginar un mejor escenario para mi retirada que Roland Garros, mi torneo favorito', ha añadido.",
+      "category": "Tenis",
+      "author": "Laura Sánchez",
+      "date": "12 mayo, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=tenis+nadal+roland+garros",
+      "readTime": "4 min",
+      "tags": ["Rafael Nadal", "Roland Garros", "Tenis", "Retirada"]
+    },
+    {
+      "id": "3",
+      "slug": "verstappen-victoria-barcelona",
+      "title": "Verstappen domina en Barcelona y amplía su ventaja en el Mundial",
+      "excerpt": "El piloto neerlandés logró su sexta victoria de la temporada en el Circuit de Barcelona-Catalunya, por delante de Norris y Hamilton.",
+      "content": "Max Verstappen (Red Bull) se impuso con autoridad en el Gran Premio de España de Fórmula 1, disputado en el Circuit de Barcelona-Catalunya, logrando así su sexta victoria de la temporada y ampliando su ventaja al frente del Mundial de pilotos.\n\nEl neerlandés, que partía desde la pole position, realizó una salida perfecta y controló la carrera de principio a fin, sin dar opción a sus rivales. Lando Norris (McLaren) finalizó en segunda posición, a más de 10 segundos del ganador, mientras que Lewis Hamilton (Mercedes) completó el podio.\n\n'Ha sido un fin de semana perfecto', declaró Verstappen tras la carrera. 'El coche ha funcionado de maravilla desde los primeros entrenamientos y hoy he podido mantener un ritmo muy constante durante toda la carrera. Estoy muy contento con este resultado y con cómo estamos trabajando como equipo'.",
+      "category": "Fórmula 1",
+      "author": "Miguel Torres",
+      "date": "10 mayo, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=formula1+verstappen+redbull+barcelona",
+      "readTime": "3 min",
+      "tags": ["Fórmula 1", "Max Verstappen", "Red Bull", "GP España"]
+    },
+    {
+      "id": "4",
+      "slug": "espana-convocatoria-eurocopa",
+      "title": "De la Fuente anuncia la lista de España para la Eurocopa con varias sorpresas",
+      "excerpt": "El seleccionador español ha dado a conocer los 26 jugadores que disputarán el torneo continental, con la inclusión de varios jóvenes talentos.",
+      "content": "Luis de la Fuente, seleccionador español, ha anunciado este viernes la lista de 26 jugadores que representarán a España en la próxima Eurocopa. La convocatoria incluye varias sorpresas, como la presencia de jóvenes talentos que han destacado esta temporada en sus respectivos equipos.\n\nEntre las novedades más destacadas se encuentra la inclusión de Lamine Yamal, que a sus 17 años se convertirá en el jugador más joven en disputar una Eurocopa con la selección española. También destaca la presencia de Fermín López, tras su gran temporada con el Barcelona, y la de Álex Baena, pieza clave en el Villarreal.\n\nPor otro lado, llama la atención la ausencia de algunos veteranos como Nacho Fernández o Jesús Navas, que han sido habituales en las últimas convocatorias. 'He elegido a los jugadores que creo que están en mejor momento y que mejor se adaptan a lo que queremos hacer', ha explicado De la Fuente.",
+      "category": "Fútbol",
+      "author": "Carlos Martínez",
+      "date": "8 mayo, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=seleccion+espana+futbol+eurocopa",
+      "readTime": "4 min",
+      "tags": ["Selección Española", "Eurocopa", "Luis de la Fuente", "Fútbol"]
+    },
+    {
+      "id": "5",
+      "slug": "real-madrid-fichaje-estrella",
+      "title": "El Real Madrid cierra el fichaje de la estrella francesa por 120 millones",
+      "excerpt": "El club blanco ha llegado a un acuerdo con el PSG para el traspaso del delantero, que firmará por cinco temporadas.",
+      "content": "El Real Madrid ha cerrado el fichaje de la estrella francesa del PSG por 120 millones de euros, según han confirmado fuentes cercanas a la negociación. El delantero, que quedará libre el próximo 30 de junio, firmará un contrato por cinco temporadas con el club blanco.\n\nTras meses de especulaciones y negociaciones, el conjunto madridista ha conseguido hacerse con los servicios de uno de los jugadores más codiciados del panorama internacional. El acuerdo incluye una cláusula de rescisión de 1.000 millones de euros, la más alta de la historia del club.\n\nEl jugador, que ya ha pasado el reconocimiento médico, será presentado en el Santiago Bernabéu a principios de julio, en lo que se espera que sea uno de los eventos deportivos del verano. 'Estoy muy feliz de unirme al mejor club del mundo', ha declarado el futbolista en sus redes sociales.",
+      "category": "Fútbol",
+      "author": "Carlos Martínez",
+      "date": "5 mayo, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=futbol+real+madrid+fichaje+estrella",
+      "readTime": "3 min",
+      "tags": ["Real Madrid", "Fichajes", "PSG", "La Liga"]
+    },
+    {
+      "id": "6",
+      "slug": "barca-basket-campeon-euroliga",
+      "title": "El Barça conquista la Euroliga tras una final épica ante el Olympiacos",
+      "excerpt": "El equipo azulgrana logró su tercera corona continental tras imponerse por 82-80 en un partido que se decidió en los últimos segundos.",
+      "content": "El FC Barcelona se proclamó campeón de la Euroliga de baloncesto tras derrotar al Olympiacos por 82-80 en una final épica disputada en Berlín. El equipo azulgrana, dirigido por Roger Grimau, logró así su tercera corona continental tras un partido que se decidió en los últimos segundos.\n\nEl conjunto barcelonista dominó durante gran parte del encuentro, llegando a tener una ventaja de 15 puntos en el tercer cuarto. Sin embargo, el Olympiacos reaccionó en el último periodo y llegó a ponerse por delante a falta de un minuto para el final. Fue entonces cuando apareció la figura de Jabari Parker, que con cinco puntos consecutivos dio la victoria al Barça.\n\n'Este título es fruto del trabajo de todo un año', declaró el capitán Álex Abrines tras el partido. 'Hemos demostrado que somos un equipo con mayúsculas, capaz de sobreponerse a las adversidades y de competir contra cualquier rival'.",
+      "category": "Baloncesto",
+      "author": "Laura Sánchez",
+      "date": "2 mayo, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=baloncesto+barcelona+euroliga+campeon",
+      "readTime": "5 min",
+      "tags": ["Baloncesto", "FC Barcelona", "Euroliga", "Olympiacos"]
+    },
+    {
+      "id": "7",
+      "slug": "alcaraz-campeon-roma",
+      "title": "Alcaraz se corona en Roma y llega a Roland Garros como favorito",
+      "excerpt": "El tenista español conquistó su primer Masters 1000 en tierra batida tras derrotar a Sinner en una final de alto nivel.",
+      "content": "Carlos Alcaraz se proclamó campeón del Masters 1000 de Roma tras derrotar al italiano Jannik Sinner por 7-6(4), 6-2 en la final disputada este domingo. El murciano, que no había podido participar en las dos ediciones anteriores del torneo debido a lesiones, logró así su primer título en la capital italiana.\n\nEl español mostró un nivel excepcional durante todo el torneo, especialmente en la final, donde desplegó su mejor tenis ante un Sinner que no pudo contrarrestar la variedad de golpes de su rival. Tras un primer set muy igualado que se decidió en el tie-break, Alcaraz rompió pronto en el segundo parcial y mantuvo su ventaja hasta el final.\n\n'Ganar en Roma era uno de mis grandes objetivos de la temporada', declaró Alcaraz tras el partido. 'Me siento muy bien físicamente y creo que llego a Roland Garros en mi mejor momento. Estoy con mucha confianza y con ganas de seguir sumando títulos'.",
+      "category": "Tenis",
+      "author": "Miguel Torres",
+      "date": "30 abril, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=tenis+alcaraz+roma+campeon",
+      "readTime": "4 min",
+      "tags": ["Carlos Alcaraz", "Masters Roma", "Tenis", "Jannik Sinner"]
+    },
+    {
+      "id": "8",
+      "slug": "atletico-renovacion-capitan",
+      "title": "El Atlético de Madrid renueva a su capitán hasta 2027",
+      "excerpt": "El club rojiblanco ha anunciado la ampliación del contrato de su jugador emblema por dos temporadas más.",
+      "content": "El Atlético de Madrid ha anunciado este lunes la renovación de su capitán hasta junio de 2027. El jugador, que finalizaba contrato el próximo año, ha ampliado su vinculación con el club rojiblanco por dos temporadas más, poniendo fin a los rumores sobre su posible salida.\n\n'Estoy muy feliz de poder seguir defendiendo esta camiseta', ha declarado el futbolista tras la firma del nuevo contrato. 'El Atlético es mi casa y no me imagino jugando en otro equipo. Quiero seguir haciendo historia aquí y ganar más títulos con estos colores'.\n\nEl presidente del club, Enrique Cerezo, ha mostrado su satisfacción por la renovación: 'Es un día muy importante para todos los atléticos. Nuestro capitán representa los valores de este club como nadie y estamos encantados de que siga liderando este proyecto'.",
+      "category": "Fútbol",
+      "author": "Laura Sánchez",
+      "date": "28 abril, 2025",
+      "image": "/placeholder.svg?height=600&width=800&query=atletico+madrid+capitan+renovacion",
+      "readTime": "3 min",
+      "tags": ["Atlético de Madrid", "Renovación", "La Liga", "Capitán"]
+    }
+  ]
+}
