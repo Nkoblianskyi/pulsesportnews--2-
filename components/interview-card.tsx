@@ -21,7 +21,7 @@ interface InterviewCardProps {
 
 export default function InterviewCard({ interview }: InterviewCardProps) {
   return (
-    <Link href={`/interviews/${interview.slug}`} className="block h-full">
+    <Link href="entrevistas-pronosticos" className="block h-full">
       <Card className="article-card h-full overflow-hidden transition-all hover:shadow-lg">
         <div className="relative h-48 w-full">
           <Image
