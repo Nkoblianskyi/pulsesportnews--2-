@@ -106,7 +106,6 @@ export default function Home() {
                 title={news.title}
                 date={news.date}
                 category={news.category}
-                slug={news.slug}
               />
             ))}
           </div>
