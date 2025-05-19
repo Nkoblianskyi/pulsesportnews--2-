@@ -79,7 +79,7 @@ export default function Home() {
                   <Link href="/articles">Ver noticias</Link>
                 </Button>
                 <Button size="lg" variant="outline" className="bg-white/10" asChild>
-                  <Link href="/interviews">Entrevistas</Link>
+                  <Link href="/entrevistas-pronosticos">Entrevistas</Link>
                 </Button>
               </div>
             </div>
