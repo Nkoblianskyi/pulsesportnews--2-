@@ -23,8 +23,8 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/interviews" className="text-muted-foreground hover:text-primary transition-colors">
-                  Entrevistas
+                <Link href="/entrevistas-pronosticos" className="text-muted-foreground hover:text-primary transition-colors">
+                  Entrevistas con Pronósticos
                 </Link>
               </li>
               <li>
