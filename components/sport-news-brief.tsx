@@ -12,7 +12,6 @@ interface SportNewsBriefProps {
 
 export default function SportNewsBrief({ title, date, category, slug }: SportNewsBriefProps) {
   return (
-    <Link href={`/articles/${slug}`}>
       <Card className="h-full hover:shadow-md transition-all">
         <CardContent className="p-4">
           <div className="flex justify-between items-start mb-2">
@@ -27,6 +26,5 @@ export default function SportNewsBrief({ title, date, category, slug }: SportNew
           <h3 className="font-medium line-clamp-2">{title}</h3>
         </CardContent>
       </Card>
-    </Link>
   )
 }
